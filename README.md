@@ -11,7 +11,7 @@ Checkout our [Documentation](https://nteract.gitbooks.io/hydrogen/) and [Medium 
 
 ## Installer
 
-### Step1:
+### Step1: on command prompt
 ```apm install hydrogen@2.8.0```
 
 ### Step2:
