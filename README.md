@@ -11,15 +11,17 @@ Checkout our [Documentation](https://nteract.gitbooks.io/hydrogen/) and [Medium 
 
 ## Installer
 
-Step1:
+### Step1:
 ```apm install hydrogen@2.8.0```
 
-Step2:
+### Step2:
 Install hydrogen from preferences
 
 If step 1 and 2 wont start your hydrogen  then follow step3
 
-Step3:
+### Step3:
 ```python3 -m ipykernel install --user```
 
+## Run
+shift+enter by selecting all the lines of code and that will run your hydrogen
 
